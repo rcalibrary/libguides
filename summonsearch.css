@@ -1,0 +1,61 @@
+/*********************/
+/* SUMMON SEARCH BOX */
+/*********************/
+
+#summon {
+	margin: 32px auto 12px auto;
+	color:#000;
+	font-family: "Benton Sans Light", "BentonSans-Light", "Helvetica Neue", Arial, Helvetica, Sans-Serif;
+	text-align:center;
+}
+#summon div.options {
+	color: #000;
+	margin-top: 8px; 
+	font-size: 1.2em;
+}
+#summon .options input {
+	margin-left: 6px;
+	margin-right: 2px;
+}
+#summon .options label {
+	font-weight: normal;
+	color: #000;
+}
+#summon .headings {
+	margin-bottom: 20px;
+}
+#summon .btn {
+	font-size: 15px;
+	background-color:#000;
+	color:#fff;
+}
+/*#summon input.searchsummon {
+	border: 5px solid #faa11e;
+}*/
+
+/*#summon input.searchsummon {
+	border: 6px solid #faa11e;
+	border-bottom-left-radius:5px;
+	border-top-left-radius:5px; 
+}*/
+
+
+#summon div.advancedsearch a {
+	color:#000;
+}
+#summon div.advancedsearch a:hover {
+	color: #ff5d1c;
+}
+#summon .form-inline .radio {
+	vertical-align: middle;
+	margin-bottom:2px;
+}
+
+#summon span.screenreader {
+	display:none;
+}
+
+#summon img {
+	max-height:45px;
+	max-width:45%;
+}
